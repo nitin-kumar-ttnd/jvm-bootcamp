@@ -18,3 +18,7 @@
 ## Iterators
 ## Comparable interface
 ## Comparator interface
+
+
+# Resources
+* [Collections (136-172)](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)

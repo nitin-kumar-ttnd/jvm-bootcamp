@@ -45,4 +45,4 @@
 
 # Resources
 * [Java For Complete Beginners Youtube Playlist (Cave of Programming)](https://www.youtube.com/watch?v=7WiPGP_0AUA&list=PL9DF6E4B45C36D411)
-
+* [Java For Complete Beginners Youtube Playlist](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
