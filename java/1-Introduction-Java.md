@@ -102,8 +102,12 @@
 * https://www.scaler.com/topics/java/type-casting-in-java/
 
 ### Generics and Wildcards
+#### Video link : 
+* https://www.youtube.com/watch?v=K1iu1kXkVoA&list=RDCMUC42pOSNg804f1wCcj7qL0mA&index=3
 * https://www.youtube.com/watch?v=Xje5PIhys18
+#### Blog link : 
 * https://www.baeldung.com/java-generics-type-parameter-vs-wildcard
+
 
 ### Anonymous Class
 * https://www.geeksforgeeks.org/anonymous-inner-class-java/
