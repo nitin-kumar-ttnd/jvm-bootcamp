@@ -2,7 +2,7 @@
 
 # Resources
 * [Collections (136-172)](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
-
+* https://www.udemy.com/course/introduction-to-generics-in-java/?
 
 ## List Interface
 #### Video links :
@@ -93,15 +93,20 @@
 #### Video links :
 * https://www.youtube.com/watch?v=7fby_jzPAbg
 
-#### Blog links :
-* 
-
 ## Hashmap vs Hashtable
+## Comparable interface
+
+## Comparator interface
 #### Video links :
-#### Blog links :
+* https://www.udemy.com/course/introduction-to-generics-in-java/?
+
 
 ## Queues
 #### Video links :
+* https://www.youtube.com/watch?v=PvDoT79oHTs
+* https://www.youtube.com/watch?v=8K1rt6v5mJ4
+* https://www.youtube.com/watch?v=23DjZA7AuOY
+
 #### Blog links :
 
 ## Iterable
@@ -109,14 +114,6 @@
 #### Blog links :
 
 ## Iterators
-#### Video links :
-#### Blog links :
-
-## Comparable interface
-#### Video links :
-#### Blog links :
-
-## Comparator interface
 #### Video links :
 #### Blog links :
 

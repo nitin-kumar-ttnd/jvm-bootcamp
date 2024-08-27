@@ -4,7 +4,8 @@
 # Common Resources
 * [Java For Complete Beginners Youtube Playlist (Cave of Programming)](https://www.youtube.com/watch?v=7WiPGP_0AUA&list=PL9DF6E4B45C36D411)
 * [Java For Complete Beginners Youtube Playlist](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
-
+* https://www.udemy.com/course/java-programming-tutorial-for-beginners
+* https://www.udemy.com/course/java-the-complete-java-developer-course
 
 # Topic-wise Resources 
 
@@ -199,3 +200,5 @@
 
 ### Wrapper classes
 * https://www.geeksforgeeks.org/wrapper-classes-java/?ref=lbp
+
+
