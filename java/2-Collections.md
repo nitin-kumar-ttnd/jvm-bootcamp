@@ -110,11 +110,10 @@
 #### Blog links :
 
 ## Iterable
-#### Video links :
-#### Blog links :
 
 ## Iterators
 #### Video links :
-#### Blog links :
+* https://www.youtube.com/watch?v=zugG_gFrv34&t=144s
+
 
 
