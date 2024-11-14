@@ -1,0 +1,4 @@
+Spring
+- from old bootcamp sessions add udemy course urls and sections
+- blogs/public video urls
+- exercise questions

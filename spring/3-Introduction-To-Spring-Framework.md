@@ -1,6 +1,12 @@
 # Introduction to Spring Framework
 
+Udemy Course: https://www.udemy.com/course/spring-tutorial-for-beginners
+Sections: 3,4 and 9
+
 ## A high level overview
+Short Description
+Blog Urls:
+Youtube/video url:
 ## Setting up Java Spring Project Using spring starter
 ## Understanding tight coupling (binary search or other example?)
 ## Converting a tightly coupled program to loosely coupled
@@ -12,7 +18,7 @@
 ## Spring projects
 ## What makes spring framework popular in Java world?
 ## Examples of dependency injection
-## Auto wiring in death by Name and @Primary
+## Auto wiring in depth by Name and @Primary
 ## Scope of a bean prototype and Singleton
 ## Difference between Spring Singleton and GOF Singleton
 ## Context and dependency injection - @Named, @Inject
@@ -29,4 +35,5 @@
 ## Creating Custom Annotation and an Aspect for Tracking Time
 
 # Resources?
-* https://www.youtube.com/watch?v=f6DHAgL7FWc
+* Spring Basics: https://www.youtube.com/watch?v=f6DHAgL7FWc
+* Spring AOP: https://www.youtube.com/watch?v=Og9Fyew8ltQ

@@ -1,5 +1,8 @@
 # Introduction to Spring Boot
 
+Udemy Course: https://www.udemy.com/course/spring-tutorial-for-beginners/
+Sections: Section 8
+
 ## Getting Started with Spring Boot - Goals
 ## Understanding the World Before Spring Boot - 10000 Feet Overview
 ## Setting up New Spring Boot Project with Spring Initializr
@@ -17,4 +20,4 @@
 
 
 # Resource
-* in28 minutes: https://www.youtube.com/watch?v=zTAHY0SLQAg
+* Spring Boot Youtube in28minutes: https://www.youtube.com/watch?v=zTAHY0SLQAg
