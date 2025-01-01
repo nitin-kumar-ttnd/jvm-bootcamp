@@ -111,15 +111,18 @@ Sections:
 
 ## Implementing Generic Exception Handling for All Resources
 **Description:** Implement a generic exception handling mechanism to manage errors across different resources and endpoints.
-### Blog:** [Generic Exception Handling in Spring Boot](https://www.baeldung.com/spring-boot-global-error-handler) - Baeldung
+### Blog:
+* https://spring.io/blog/2013/11/01/exception-handling-in-spring-mvc
 ### YouTube Video:
 * https://www.youtube.com/watch?v=KXraA3O4u2A&list=PLv9DX4Sm66LCT-R3bOKxQ-k0c4uauTzl2
 * https://www.youtube.com/watch?v=9oeJc_VkZxo
 
 ## Implementing DELETE Method to Delete a User Resource
 **Description:** Implement the DELETE method to remove a user resource from the server.
-### Blog:** [Implementing DELETE Methods with Spring Boot](https://www.baeldung.com/spring-rest-delete) - Baeldung
-### YouTube Video:** [Spring Boot DELETE Request Tutorial](https://www.youtube.com/watch?v=K2W2YEOmRdE) - Java Brains
+### Blog:
+* https://www.javaguides.net/2018/11/spring-getmapping-postmapping-putmapping-deletemapping-patchmapping.html
+### YouTube Video:
+* https://www.youtube.com/watch?v=z8XgBCrTVY0
 
 ## Implementing Validations for REST API
 **Description:** Implement data validations to ensure that the input data for your REST API is correct and complete.
@@ -130,61 +133,83 @@ Sections:
 
 ## Overview of Advanced REST API Features
 **Description:** Explore advanced features of REST APIs, such as pagination, filtering, and sorting.
-### Blog:** [Advanced REST API Features](https://www.baeldung.com/rest-api-pagination-sorting) - Baeldung
-### YouTube Video:** [Advanced REST API Features](https://www.youtube.com/watch?v=w5J9MJZ52T0) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-data-jpa-pagination-sorting
+### YouTube Video:
+* https://www.youtube.com/watch?v=Wa0GQwWwzJE
 
 ## Understanding Open API Specification and Swagger
 **Description:** Learn about OpenAPI Specification and Swagger tools for designing, documenting, and consuming REST APIs.
-### Blog:** [Introduction to OpenAPI and Swagger](https://swagger.io/docs/specification/about/) - Swagger
-### YouTube Video:** [OpenAPI and Swagger Overview](https://www.youtube.com/watch?v=7-7Vf-3kv1A) - Swagger
+### Blog:
+* https://swagger.io/docs/specification/about/
+### YouTube Video:
+* https://www.youtube.com/watch?v=7MS1Z_1c5CU
 
 ## Configuring Auto Generation of Swagger Documentation
 **Description:** Configure your Spring Boot application to automatically generate Swagger documentation for your API.
-### Blog:** [Spring Boot Swagger Integration](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api) - Baeldung
-### YouTube Video:** [Swagger Configuration in Spring Boot](https://www.youtube.com/watch?v=k5v_wCC_cXw) - Java Brains
+### Blog:
+* https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+### YouTube Video:
+* https://www.youtube.com/watch?v=7MS1Z_1c5CU
 
 ## Exploring Content Negotiation - Implementing Support for XML
 **Description:** Implement content negotiation to support different response formats, including XML and JSON.
-### Blog:** [Content Negotiation in Spring Boot](https://www.baeldung.com/spring-mvc-content-negotiation) - Baeldung
-### YouTube Video:** [Spring Boot Content Negotiation](https://www.youtube.com/watch?v=6tAY6Mw9Gm4) - TechPrimers
+### Blog:
+* https://www.baeldung.com/spring-mvc-content-negotiation-json-xml
+### YouTube Video:
+* https://www.youtube.com/watch?v=J8K9bEkfUVg
 
 ## Exploring Internationalization for REST API
 **Description:** Implement internationalization (i18n) in your REST API to support multiple languages and locales.
-### Blog:** [Internationalization in Spring Boot](https://www.baeldung.com/spring-boot-internationalization) - Baeldung
-### YouTube Video:** [Spring Boot Internationalization](https://www.youtube.com/watch?v=BoG6g2sNGp4) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-boot-internationalization
+### YouTube Video:
+* https://www.youtube.com/watch?v=omKkzloy-Pg
 
 ## Versioning REST API - URI Versioning
 **Description:** Implement URI versioning in your REST API to manage changes and support multiple versions.
-### Blog:** [URI Versioning in REST API](https://www.baeldung.com/rest-api-versioning) - Baeldung
-### YouTube Video:** [URI Versioning in Spring Boot](https://www.youtube.com/watch?v=NRMOFfDhVtU) - Spring Framework
-
-## Versioning REST API - Request Param, Header and Content Negotiation
-**Description:** Explore different methods for versioning REST APIs, including request parameters, headers, and content negotiation.
-### Blog:** [REST API Versioning Strategies](https://www.baeldung.com/rest-api-versioning) - Baeldung
-### YouTube Video:** [REST API Versioning Techniques](https://www.youtube.com/watch?v=wB8c0sK95O0) - TechPrimers
+### Blog:
+* https://www.baeldung.com/rest-versioning
+### YouTube Video:
+* https://www.youtube.com/watch?v=Xtu-yi3_Yuw
 
 ## Implementing HATEOAS for REST API
 **Description:** Implement HATEOAS (Hypermedia as the Engine of Application State) to enhance your REST API with navigational links.
-### Blog:** [HATEOAS in Spring Boot](https://www.baeldung.com/spring-hateoas) - Baeldung
-### YouTube Video:** [Spring Boot HATEOAS Tutorial](https://www.youtube.com/watch?v=omzzsNVXnQY) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-hateoas-tutorial
+* https://www.baeldung.com/rest-api-discoverability-with-spring
+### YouTube Video:
+* https://www.youtube.com/watch?v=Mp6LpIg7h84
+* https://www.youtube.com/watch?v=dtO5NQ8K5Wo
 
 ## Implementing Static Filtering for REST API
 **Description:** Implement static filtering to control which fields are included in the JSON response of your REST API.
-### Blog:** [Static Filtering in Spring Boot](https://www.baeldung.com/spring-rest-static-filtering) - Baeldung
-### YouTube Video:** [Spring Boot Static Filtering](https://www.youtube.com/watch?v=GhXT5T_LxUw) - Java Brains
+### Blog:
+* https://www.javatpoint.com/restful-web-services-static-filtering
+* https://www.naukri.com/code360/library/implementing-static-filtering-for-restful-services
+### YouTube Video:
+* https://www.youtube.com/watch?v=TVjFh1GXeEk
 
 ## Implementing Dynamic Filtering for REST API
 **Description:** Implement dynamic filtering to allow clients to specify which fields to include or exclude in the JSON response.
-### Blog:** [Dynamic Filtering in Spring Boot](https://www.baeldung.com/spring-rest-dynamic-filtering) - Baeldung
-### YouTube Video:** [Spring Boot Dynamic Filtering](https://www.youtube.com/watch?v=z9e6zF2fWxw) - TechPrimers
+### Blog:
+* https://www.naukri.com/code360/library/implementing-dynamic-filtering-for-restful-services
+* https://www.javatpoint.com/restful-web-services-dynamic-filtering
+### YouTube Video:
+* https://www.youtube.com/watch?v=YgWNz_PdZjk
 
 ## Monitoring APIs with Spring Boot Actuator
 **Description:** Use Spring Boot Actuator to monitor and manage your application’s REST API, including health checks and metrics.
-### Blog:** [Spring Boot Actuator](https://www.baeldung.com/spring-boot-actuator) - Baeldung
-### YouTube Video:** [Spring Boot Actuator Tutorial](https://www.youtube.com/watch?v=n5wHzeC8K-s) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-boot-actuators
+* https://www.baeldung.com/spring-boot-actuator-startup
+### YouTube Video:
+* https://www.youtube.com/watch?v=ojc_Jy_0EgI
 
 ## Exploring APIs with Spring Boot HAL Explorer
 **Description:** Use Spring Boot HAL Explorer to interactively explore and test your REST API with Hypermedia as the Engine of Application State (HATEOAS).
-### Blog:** [Spring Boot HAL Explorer](https://www.baeldung.com/spring-boot-hal-explorer) - Baeldung
-### YouTube Video:** [Spring Boot HAL Explorer](https://www.youtube.com/watch?v=wTWf1L-I1jI) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-rest-hal
+### YouTube Video:
+* https://www.youtube.com/watch?v=hW7JmG3vyV4
 
