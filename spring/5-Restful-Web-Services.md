@@ -81,21 +81,25 @@ Sections:
 
 ## Creating User Bean and UserDaoService
 **Description:** Implement a `User` bean and a `UserDaoService` for handling user data and interaction with the database.
-### Blog:** [Creating a User Bean and DAO Service](https://www.baeldung.com/spring-data-jpa) - Baeldung
-### YouTube Video:** [Spring Boot User Bean and DAO Service](https://www.youtube.com/watch?v=phm4d7ZZogM) - Java Brains
+### YouTube Video:
+* https://www.youtube.com/watch?v=0RW1OJLqrJw&list=PL3TcmWquEgLWkY2pvaJHoWiD4AZ3rQ9X3&index=6
 
 ## Implementing GET Methods for User Resource
 **Description:** Implement GET methods in the REST API to retrieve user resources from the server.
-### Blog:** [Implementing GET Methods with Spring Boot](https://www.baeldung.com/spring-rest-get) - Baeldung
-### YouTube Video:** [Spring Boot GET Request Tutorial](https://www.youtube.com/watch?v=l_tkBzI-Blo) - Java Brains
+### YouTube Video:
+* https://www.youtube.com/watch?v=OgyUCQo_j3E&list=PL3TcmWquEgLWkY2pvaJHoWiD4AZ3rQ9X3&index=7
+* https://www.youtube.com/watch?v=1He8xR-16bo&list=PL3TcmWquEgLWkY2pvaJHoWiD4AZ3rQ9X3&index=8
 
 ## Implementing POST Method to Create User Resource
-### Blog:** [Implementing POST Methods with Spring Boot](https://www.baeldung.com/spring-rest-post) - Baeldung
-### YouTube Video:** [Spring Boot POST Request Tutorial](https://www.youtube.com/watch?v=kjHHsz2Yz-E) - Java Brains
 
+### YouTube Video:
+* https://www.youtube.com/watch?v=5s5QfnodKQ8&list=PL3TcmWquEgLWkY2pvaJHoWiD4AZ3rQ9X3&index=9
+* 
 ## Enhancing POST Method to Return Correct HTTP Status Code and Location
-### Blog:** [Handling POST Requests and Status Codes](https://www.baeldung.com/spring-rest-create-resource) - Baeldung
-### YouTube Video:** [Spring Boot POST Request with Status Codes](https://www.youtube.com/watch?v=l-B1wC86CHM) - Spring Framework
+### Blog:
+* https://www.baeldung.com/spring-mvc-controller-custom-http-status-code
+### YouTube Video:
+* https://www.youtube.com/watch?v=y7uBDTWTLQM
 
 ## Implementing Exception Handling - 404 Resource Not Found
 **Description:** Implement exception handling in your REST API to return a 404 status code when a resource is not found.
