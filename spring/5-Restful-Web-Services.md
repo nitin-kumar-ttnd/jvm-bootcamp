@@ -5,156 +5,182 @@ Sections:
 
 ## What is a Web Service
 **Description:** A web service is a standardized way of allowing applications to communicate over the internet. It enables different systems to interact by exchanging data and functionality over a network.
-- **Blog:** [What is a Web Service?](https://www.tutorialspoint.com/what-is-web-service) - Tutorialspoint
-- **YouTube Video:** [What is a Web Service?](https://www.youtube.com/watch?v=_M8Le9JZWmY) - Simplilearn
+### Blog:
+* [What is a Web Service?](https://www.tutorialspoint.com/what-is-web-service) - Tutorialspoint
+* https://www.geeksforgeeks.org/java-web-services/
+### YouTube Video:
+* [What is a Web Service?](https://www.youtube.com/watch?v=_M8Le9JZWmY) - Simplilearn
+* https://www.youtube.com/watch?v=e3bz4dxoUII
 
 ## Web Services Key Terminology
 **Description:** Key terminology includes terms like endpoints, SOAP, REST, XML, JSON, and WSDL. Understanding these terms is crucial for working with web services.
-- **Blog:** [Web Service Terminology Explained](https://www.geeksforgeeks.org/web-services-key-terminology/) - GeeksforGeeks
-- **YouTube Video:** [Web Services Key Terminology](https://www.youtube.com/watch?v=JcMJ0yK3PfQ) - Academind
+### Blog:
+* https://www.geeksforgeeks.org/difference-between-rest-api-and-soap-api/
+* https://testbook.com/key-differences/difference-between-soap-and-rest-web-services
+* https://www.javatpoint.com/restful-web-services-key-terminology-of-web-services
+### YouTube Video:
+* https://www.youtube.com/watch?v=2mqN7ZhDsUA
+* https://www.youtube.com/watch?v=_fq8Ye8kodA
 
 ## Introduction to SOAP Web Services
 **Description:** SOAP (Simple Object Access Protocol) is a protocol for exchanging structured information in web services, using XML as its message format.
-- **Blog:** [Introduction to SOAP Web Services](https://www.tutorialspoint.com/soap/index.htm) - Tutorialspoint
-- **YouTube Video:** [Introduction to SOAP Web Services](https://www.youtube.com/watch?v=bYcE3gT9c3I) - ProgrammingKnowledge
+### Blog:
+* https://www.tutorialspoint.com/soap/index.htm
+### YouTube Video:
+* https://www.youtube.com/watch?v=bdufDvk6pgU
 
 ## SOAP vs RESTful Web Services
 **Description:** This topic covers the differences between SOAP (a protocol) and REST (an architectural style). SOAP is more rigid, while REST is more flexible and lightweight.
-- **Blog:** [SOAP vs REST: Understanding the Differences](https://www.digitalocean.com/community/tutorials/soap-vs-rest) - DigitalOcean
-- **YouTube Video:** [SOAP vs RESTful Web Services](https://www.youtube.com/watch?v=2LiwR3iRU2A) - The Code Academy
+### Blog:
+* https://www.geeksforgeeks.org/difference-between-rest-api-and-soap-api/
+* https://www.javatpoint.com/soap-vs-rest-web-services
+* https://blog.postman.com/soap-vs-rest/
+### YouTube Video:
+* https://www.youtube.com/watch?v=_fq8Ye8kodA
 
-## Creating a REST API with Spring Boot - An Overview
+## Creating and Initializing a REST API with Spring Boot
 **Description:** Spring Boot simplifies creating RESTful APIs with minimal configuration and built-in features for handling HTTP requests.
-- **Blog:** [Creating a REST API with Spring Boot](https://spring.io/guides/gs/rest-service/) - Spring.io
-- **YouTube Video:** [Spring Boot REST API Tutorial](https://www.youtube.com/watch?v=9SG7N1Qd7H0) - CodeAcademy
-
-## Initializing a REST API Project with Spring Boot
-**Description:** Learn how to set up a new Spring Boot project for developing a REST API, including setting up dependencies and project structure.
-- **Blog:** [Getting Started with Spring Boot](https://www.baeldung.com/spring-boot) - Baeldung
-- **YouTube Video:** [Initialize Spring Boot Project](https://www.youtube.com/watch?v=Il5cRnaY1zg) - Java Brains
+### Blog:
+* https://spring.io/guides/gs/rest-service
+* https://www.geeksforgeeks.org/easiest-way-to-create-rest-api-using-spring-boot/
+* https://spring.io/guides/tutorials/rest
+* https://www.baeldung.com/spring-boot
+### YouTube Video:
+* https://www.youtube.com/watch?v=t608nsKSEh4
+* https://www.youtube.com/watch?v=Zo9xQzibp4Y
 
 ## Creating a Hello World REST API with Spring Boot
 **Description:** Create a simple "Hello World" REST API endpoint using Spring Boot to return a basic message.
-- **Blog:** [Hello World REST API with Spring Boot](https://www.baeldung.com/spring-boot-hello-world) - Baeldung
-- **YouTube Video:** [Spring Boot Hello World REST API](https://www.youtube.com/watch?v=fU-4-i-Ie5c) - Spring Framework
-
-## Enhancing the Hello World REST API to Return a Bean
-**Description:** Modify the REST API to return a JavaBean, allowing more complex data structures to be returned as JSON responses.
-- **Blog:** [Returning a Bean from Spring Boot REST API](https://www.baeldung.com/spring-boot-returning-objects) - Baeldung
-- **YouTube Video:** [Spring Boot Returning Bean Example](https://www.youtube.com/watch?v=OtY_j1uD1wQ) - Java Brains
+### Blog:
+* https://www.javatpoint.com/spring-boot-hello-world-example
+* https://spring.io/guides/gs/rest-service
+### YouTube Video:
+* https://www.youtube.com/watch?v=MJJipL8ERm8
+* https://www.youtube.com/watch?v=cimN-o4M_d0
 
 ## What's Happening in the Background? Spring Boot Starters & Autoconfiguration
 **Description:** Spring Boot Starters simplify dependency management, and Autoconfiguration automatically sets up your application based on the included dependencies.
-- **Blog:** [Spring Boot Starters & Autoconfiguration](https://docs.spring.io/spring-boot/docs/current/reference/html/using.html#using-boot-auto-configuration) - Spring.io
-- **YouTube Video:** [Spring Boot Autoconfiguration](https://www.youtube.com/watch?v=8lyJxIb2bik) - Java Brains
+### Blog:
+* https://docs.spring.io/spring-boot/reference/using/auto-configuration.html#using.auto-configuration
+### YouTube Video:
+* https://www.baeldung.com/spring-boot-custom-starter
 
 ## Enhancing the Hello World REST API with a Path Variable
 **Description:** Update the REST API to accept and process path variables, allowing dynamic data in the URL.
-- **Blog:** [Using Path Variables in Spring Boot](https://www.baeldung.com/spring-pathvariable) - Baeldung
-- **YouTube Video:** [Spring Boot Path Variable Tutorial](https://www.youtube.com/watch?v=7b4Jpp3W7Z4) - CodeAcademy
+### Blog:
+* https://www.baeldung.com/spring-pathvariable
+### YouTube Video:
+* https://www.youtube.com/watch?v=hMb6F8pg0aI
 
 ## Designing the REST API for Social Media Application
-**Description:** Design a REST API tailored for a social media application, focusing on resources like users, posts, and comments.
-- **Blog:** [Designing REST APIs for Social Media](https://medium.com/@salihagunduz/rest-api-design-for-social-media-applications-6d65d09d0c44) - Medium
-- **YouTube Video:** [Designing a REST API](https://www.youtube.com/watch?v=ISb0b6yD76M) - TechPrimers
+**Description:** Design a REST API tailored for a social media application
+### Blog:
+* https://github.com/SerhiiRyzhkov/blog_rest_app
+### YouTube Video:
+* https://www.youtube.com/watch?v=LEg9mkMiLA4&list=PL3TcmWquEgLWkY2pvaJHoWiD4AZ3rQ9X3
 
 ## Creating User Bean and UserDaoService
 **Description:** Implement a `User` bean and a `UserDaoService` for handling user data and interaction with the database.
-- **Blog:** [Creating a User Bean and DAO Service](https://www.baeldung.com/spring-data-jpa) - Baeldung
-- **YouTube Video:** [Spring Boot User Bean and DAO Service](https://www.youtube.com/watch?v=phm4d7ZZogM) - Java Brains
+### Blog:** [Creating a User Bean and DAO Service](https://www.baeldung.com/spring-data-jpa) - Baeldung
+### YouTube Video:** [Spring Boot User Bean and DAO Service](https://www.youtube.com/watch?v=phm4d7ZZogM) - Java Brains
 
 ## Implementing GET Methods for User Resource
 **Description:** Implement GET methods in the REST API to retrieve user resources from the server.
-- **Blog:** [Implementing GET Methods with Spring Boot](https://www.baeldung.com/spring-rest-get) - Baeldung
-- **YouTube Video:** [Spring Boot GET Request Tutorial](https://www.youtube.com/watch?v=l_tkBzI-Blo) - Java Brains
+### Blog:** [Implementing GET Methods with Spring Boot](https://www.baeldung.com/spring-rest-get) - Baeldung
+### YouTube Video:** [Spring Boot GET Request Tutorial](https://www.youtube.com/watch?v=l_tkBzI-Blo) - Java Brains
 
 ## Implementing POST Method to Create User Resource
-**Description:** Implement the POST method in the REST API to create new user resources.
-- **Blog:** [Implementing POST Methods with Spring Boot](https://www.baeldung.com/spring-rest-post) - Baeldung
-- **YouTube Video:** [Spring Boot POST Request Tutorial](https://www.youtube.com/watch?v=kjHHsz2Yz-E) - Java Brains
+### Blog:** [Implementing POST Methods with Spring Boot](https://www.baeldung.com/spring-rest-post) - Baeldung
+### YouTube Video:** [Spring Boot POST Request Tutorial](https://www.youtube.com/watch?v=kjHHsz2Yz-E) - Java Brains
 
 ## Enhancing POST Method to Return Correct HTTP Status Code and Location
-**Description:** Update the POST method to return appropriate HTTP status codes and the location of the newly created resource.
-- **Blog:** [Handling POST Requests and Status Codes](https://www.baeldung.com/spring-rest-create-resource) - Baeldung
-- **YouTube Video:** [Spring Boot POST Request with Status Codes](https://www.youtube.com/watch?v=l-B1wC86CHM) - Spring Framework
+### Blog:** [Handling POST Requests and Status Codes](https://www.baeldung.com/spring-rest-create-resource) - Baeldung
+### YouTube Video:** [Spring Boot POST Request with Status Codes](https://www.youtube.com/watch?v=l-B1wC86CHM) - Spring Framework
 
 ## Implementing Exception Handling - 404 Resource Not Found
 **Description:** Implement exception handling in your REST API to return a 404 status code when a resource is not found.
-- **Blog:** [Exception Handling in Spring Boot](https://www.baeldung.com/spring-boot-exception-handling) - Baeldung
-- **YouTube Video:** [Spring Boot Exception Handling Tutorial](https://www.youtube.com/watch?v=0RyJdtm4JK0) - Spring Framework
+### Blog:
+* https://www.javatpoint.com/restful-web-services-404-not-found
+### YouTube Video:
+* https://www.youtube.com/watch?v=3_RT006E860
+* https://www.youtube.com/watch?v=cqzC-ntuCNY
 
 ## Implementing Generic Exception Handling for All Resources
 **Description:** Implement a generic exception handling mechanism to manage errors across different resources and endpoints.
-- **Blog:** [Generic Exception Handling in Spring Boot](https://www.baeldung.com/spring-boot-global-error-handler) - Baeldung
-- **YouTube Video:** [Spring Boot Global Exception Handling](https://www.youtube.com/watch?v=hlbqQ4KwX8E) - Java Brains
+### Blog:** [Generic Exception Handling in Spring Boot](https://www.baeldung.com/spring-boot-global-error-handler) - Baeldung
+### YouTube Video:
+* https://www.youtube.com/watch?v=KXraA3O4u2A&list=PLv9DX4Sm66LCT-R3bOKxQ-k0c4uauTzl2
+* https://www.youtube.com/watch?v=9oeJc_VkZxo
 
 ## Implementing DELETE Method to Delete a User Resource
 **Description:** Implement the DELETE method to remove a user resource from the server.
-- **Blog:** [Implementing DELETE Methods with Spring Boot](https://www.baeldung.com/spring-rest-delete) - Baeldung
-- **YouTube Video:** [Spring Boot DELETE Request Tutorial](https://www.youtube.com/watch?v=K2W2YEOmRdE) - Java Brains
+### Blog:** [Implementing DELETE Methods with Spring Boot](https://www.baeldung.com/spring-rest-delete) - Baeldung
+### YouTube Video:** [Spring Boot DELETE Request Tutorial](https://www.youtube.com/watch?v=K2W2YEOmRdE) - Java Brains
 
 ## Implementing Validations for REST API
 **Description:** Implement data validations to ensure that the input data for your REST API is correct and complete.
-- **Blog:** [Validation in Spring Boot REST API](https://www.baeldung.com/spring-boot-bean-validation) - Baeldung
-- **YouTube Video:** [Spring Boot Validation Tutorial](https://www.youtube.com/watch?v=QK9szd-7w8g) - Java Brains
+### Blog:
+* https://www.baeldung.com/spring-boot-bean-validation
+### YouTube Video:
+* https://www.youtube.com/watch?v=NZIJk-3r5DM&list=PLv9DX4Sm66LCT-R3bOKxQ-k0c4uauTzl2&index=2
 
 ## Overview of Advanced REST API Features
 **Description:** Explore advanced features of REST APIs, such as pagination, filtering, and sorting.
-- **Blog:** [Advanced REST API Features](https://www.baeldung.com/rest-api-pagination-sorting) - Baeldung
-- **YouTube Video:** [Advanced REST API Features](https://www.youtube.com/watch?v=w5J9MJZ52T0) - Java Brains
+### Blog:** [Advanced REST API Features](https://www.baeldung.com/rest-api-pagination-sorting) - Baeldung
+### YouTube Video:** [Advanced REST API Features](https://www.youtube.com/watch?v=w5J9MJZ52T0) - Java Brains
 
 ## Understanding Open API Specification and Swagger
 **Description:** Learn about OpenAPI Specification and Swagger tools for designing, documenting, and consuming REST APIs.
-- **Blog:** [Introduction to OpenAPI and Swagger](https://swagger.io/docs/specification/about/) - Swagger
-- **YouTube Video:** [OpenAPI and Swagger Overview](https://www.youtube.com/watch?v=7-7Vf-3kv1A) - Swagger
+### Blog:** [Introduction to OpenAPI and Swagger](https://swagger.io/docs/specification/about/) - Swagger
+### YouTube Video:** [OpenAPI and Swagger Overview](https://www.youtube.com/watch?v=7-7Vf-3kv1A) - Swagger
 
 ## Configuring Auto Generation of Swagger Documentation
 **Description:** Configure your Spring Boot application to automatically generate Swagger documentation for your API.
-- **Blog:** [Spring Boot Swagger Integration](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api) - Baeldung
-- **YouTube Video:** [Swagger Configuration in Spring Boot](https://www.youtube.com/watch?v=k5v_wCC_cXw) - Java Brains
+### Blog:** [Spring Boot Swagger Integration](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api) - Baeldung
+### YouTube Video:** [Swagger Configuration in Spring Boot](https://www.youtube.com/watch?v=k5v_wCC_cXw) - Java Brains
 
 ## Exploring Content Negotiation - Implementing Support for XML
 **Description:** Implement content negotiation to support different response formats, including XML and JSON.
-- **Blog:** [Content Negotiation in Spring Boot](https://www.baeldung.com/spring-mvc-content-negotiation) - Baeldung
-- **YouTube Video:** [Spring Boot Content Negotiation](https://www.youtube.com/watch?v=6tAY6Mw9Gm4) - TechPrimers
+### Blog:** [Content Negotiation in Spring Boot](https://www.baeldung.com/spring-mvc-content-negotiation) - Baeldung
+### YouTube Video:** [Spring Boot Content Negotiation](https://www.youtube.com/watch?v=6tAY6Mw9Gm4) - TechPrimers
 
 ## Exploring Internationalization for REST API
 **Description:** Implement internationalization (i18n) in your REST API to support multiple languages and locales.
-- **Blog:** [Internationalization in Spring Boot](https://www.baeldung.com/spring-boot-internationalization) - Baeldung
-- **YouTube Video:** [Spring Boot Internationalization](https://www.youtube.com/watch?v=BoG6g2sNGp4) - Java Brains
+### Blog:** [Internationalization in Spring Boot](https://www.baeldung.com/spring-boot-internationalization) - Baeldung
+### YouTube Video:** [Spring Boot Internationalization](https://www.youtube.com/watch?v=BoG6g2sNGp4) - Java Brains
 
 ## Versioning REST API - URI Versioning
 **Description:** Implement URI versioning in your REST API to manage changes and support multiple versions.
-- **Blog:** [URI Versioning in REST API](https://www.baeldung.com/rest-api-versioning) - Baeldung
-- **YouTube Video:** [URI Versioning in Spring Boot](https://www.youtube.com/watch?v=NRMOFfDhVtU) - Spring Framework
+### Blog:** [URI Versioning in REST API](https://www.baeldung.com/rest-api-versioning) - Baeldung
+### YouTube Video:** [URI Versioning in Spring Boot](https://www.youtube.com/watch?v=NRMOFfDhVtU) - Spring Framework
 
 ## Versioning REST API - Request Param, Header and Content Negotiation
 **Description:** Explore different methods for versioning REST APIs, including request parameters, headers, and content negotiation.
-- **Blog:** [REST API Versioning Strategies](https://www.baeldung.com/rest-api-versioning) - Baeldung
-- **YouTube Video:** [REST API Versioning Techniques](https://www.youtube.com/watch?v=wB8c0sK95O0) - TechPrimers
+### Blog:** [REST API Versioning Strategies](https://www.baeldung.com/rest-api-versioning) - Baeldung
+### YouTube Video:** [REST API Versioning Techniques](https://www.youtube.com/watch?v=wB8c0sK95O0) - TechPrimers
 
 ## Implementing HATEOAS for REST API
 **Description:** Implement HATEOAS (Hypermedia as the Engine of Application State) to enhance your REST API with navigational links.
-- **Blog:** [HATEOAS in Spring Boot](https://www.baeldung.com/spring-hateoas) - Baeldung
-- **YouTube Video:** [Spring Boot HATEOAS Tutorial](https://www.youtube.com/watch?v=omzzsNVXnQY) - Java Brains
+### Blog:** [HATEOAS in Spring Boot](https://www.baeldung.com/spring-hateoas) - Baeldung
+### YouTube Video:** [Spring Boot HATEOAS Tutorial](https://www.youtube.com/watch?v=omzzsNVXnQY) - Java Brains
 
 ## Implementing Static Filtering for REST API
 **Description:** Implement static filtering to control which fields are included in the JSON response of your REST API.
-- **Blog:** [Static Filtering in Spring Boot](https://www.baeldung.com/spring-rest-static-filtering) - Baeldung
-- **YouTube Video:** [Spring Boot Static Filtering](https://www.youtube.com/watch?v=GhXT5T_LxUw) - Java Brains
+### Blog:** [Static Filtering in Spring Boot](https://www.baeldung.com/spring-rest-static-filtering) - Baeldung
+### YouTube Video:** [Spring Boot Static Filtering](https://www.youtube.com/watch?v=GhXT5T_LxUw) - Java Brains
 
 ## Implementing Dynamic Filtering for REST API
 **Description:** Implement dynamic filtering to allow clients to specify which fields to include or exclude in the JSON response.
-- **Blog:** [Dynamic Filtering in Spring Boot](https://www.baeldung.com/spring-rest-dynamic-filtering) - Baeldung
-- **YouTube Video:** [Spring Boot Dynamic Filtering](https://www.youtube.com/watch?v=z9e6zF2fWxw) - TechPrimers
+### Blog:** [Dynamic Filtering in Spring Boot](https://www.baeldung.com/spring-rest-dynamic-filtering) - Baeldung
+### YouTube Video:** [Spring Boot Dynamic Filtering](https://www.youtube.com/watch?v=z9e6zF2fWxw) - TechPrimers
 
 ## Monitoring APIs with Spring Boot Actuator
 **Description:** Use Spring Boot Actuator to monitor and manage your application’s REST API, including health checks and metrics.
-- **Blog:** [Spring Boot Actuator](https://www.baeldung.com/spring-boot-actuator) - Baeldung
-- **YouTube Video:** [Spring Boot Actuator Tutorial](https://www.youtube.com/watch?v=n5wHzeC8K-s) - Java Brains
+### Blog:** [Spring Boot Actuator](https://www.baeldung.com/spring-boot-actuator) - Baeldung
+### YouTube Video:** [Spring Boot Actuator Tutorial](https://www.youtube.com/watch?v=n5wHzeC8K-s) - Java Brains
 
 ## Exploring APIs with Spring Boot HAL Explorer
 **Description:** Use Spring Boot HAL Explorer to interactively explore and test your REST API with Hypermedia as the Engine of Application State (HATEOAS).
-- **Blog:** [Spring Boot HAL Explorer](https://www.baeldung.com/spring-boot-hal-explorer) - Baeldung
-- **YouTube Video:** [Spring Boot HAL Explorer](https://www.youtube.com/watch?v=wTWf1L-I1jI) - Java Brains
+### Blog:** [Spring Boot HAL Explorer](https://www.baeldung.com/spring-boot-hal-explorer) - Baeldung
+### YouTube Video:** [Spring Boot HAL Explorer](https://www.youtube.com/watch?v=wTWf1L-I1jI) - Java Brains
 
