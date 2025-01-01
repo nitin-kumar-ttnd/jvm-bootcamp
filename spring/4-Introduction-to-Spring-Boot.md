@@ -5,7 +5,7 @@ Sections: Section 8
 
 ## Getting Started with Spring Boot - Goals
 * Blog Urls: https://www.baeldung.com/spring-boot-start
-* Youtube/video url: https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF
+* Youtube/video url #5: https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF 
 ## Understanding the World Before Spring Boot - 10000 Feet Overview
 ## Setting up New Spring Boot Project with Spring Initializr
 * Blog Urls: https://spring.io/guides/gs/spring-boot
@@ -32,8 +32,8 @@ Sections: Section 8
 * Blog Urls: https://www.baeldung.com/configuration-properties-in-spring-boot
 * Youtube/video url: https://www.youtube.com/watch?v=z8kfFbfGGME
 ## Get Production Ready with Spring Boot - 3 - Embedded
-* Blog Urls: https://www.baeldung.com/spring-boot-embedded-camunda
-* Youtube/video url: https://www.youtube.com/watch?v=niSfoMlQafk
+* Blog Urls: 
+* Youtube/video url: 
 ## Get Production Ready with Spring Boot - 4 - Actuator
 * Blog Urls: https://www.baeldung.com/spring-boot-actuators
 * Youtube/video url: https://www.youtube.com/watch?v=Ub9hddrtSAI
